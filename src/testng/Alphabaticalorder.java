@@ -17,7 +17,7 @@ public class Alphabaticalorder {
 	  driver.get("https://www.google.com");
   } 
   @Test
-  public void gmail() {
+  public void G() {
 	  driver.get("https://www.gmail.com");
   } 
   
